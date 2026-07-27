@@ -24,7 +24,7 @@
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,html,css" />
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css" />
 </p>
 
 ### Data Analytics
